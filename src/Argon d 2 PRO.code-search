@@ -1,0 +1,9 @@
+# Query: Argon d 2 PRO
+# ContextLines: 1
+
+1 result - 1 file
+
+src\examples\Navbars\DefaultNavbar\App.js:
+  175              brand={darkSidenav || darkMode ? brand : brandDark}
+  176:             brandName="ARO"
+  177              routes={routes}
